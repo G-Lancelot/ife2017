@@ -9,7 +9,7 @@ a {color:#4700f0;}
 nav {height:60px;margin-bottom:20px;background:#333;}
 nav .fl img {width:118px;height:38px;margin-left:40px;margin-top:10px;}
 nav .fr {margin-right:12px;}
-nav .fr li {float:left;line-height:60px;margin:0 8px;list-style:disc;font-size:12px;}
+nav .fr li {float:left;width:70px;line-height:60px;margin:0 8px;list-style:disc;font-size:12px;}
 nav .fr li a {color:#fff;text-decoration:none;}
 nav .fr li a:hover {color:#abb1af;}
 
