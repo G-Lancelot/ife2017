@@ -12,6 +12,6 @@ body {font-size:14px;font-family:"Microsoft Yahei",Arial,sans-serif;color:#000;}
 .right img {width:80px;height:80px;margin-top:20px;}
 .right img:first-child {margin-top:0px;}
 
-.center {margin-left:220px;margin-right:140px;padding:20px;border:1px solid #999;box-sizing:border-box;}
+.center {margin-left:220px;margin-right:140px;padding:20px;border:1px solid #999;box-sizing:border-box;background:#fff;}
 .center p {text-indent:2em;line-height:25px;margin:10px 0;}
 .center img {max-width:100%;}
