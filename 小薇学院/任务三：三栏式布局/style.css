@@ -9,10 +9,11 @@ a {color:#4700f0;}
 .main {overflow:hidden;/*max-height:445px;*/margin:20px;padding:20px;border:1px solid #999;background:#eee;}
 
 .left {float:left;width:200px;*width:158px;padding:20px;border:1px solid #999;box-sizing:border-box;background:#fff;}
+.left img {width:80px;height:80px;}
 .left span {vertical-align:top;}
 
 .right {float:right;width:120px;*width:78px;padding:20px;border:1px solid #999;background:#fff;box-sizing:border-box;}
-.right img {margin-top:20px;}
+.right img {width:80px;height:80px;margin-top:20px;}
 .right img:first-child {margin-top:0px;}
 
 .center {margin-left:220px;margin-right:140px;padding:20px;border:1px solid #999;box-sizing:border-box;}
