@@ -2,7 +2,7 @@
 * {padding:0;margin:0;}
 body {font-size:14px;font-family:"Microsoft Yahei",Arial,sans-serif;color:#000;}
 
-.main {overflow:hidden;/*max-height:445px;*/margin:20px;padding:20px;border:1px solid #999;background:#eee;}
+.main {overflow:hidden;min-width:640px;/*max-height:445px;*/margin:20px;padding:20px;border:1px solid #999;background:#eee;box-sizing:border-box;}
 
 .left {float:left;width:200px;*width:158px;padding:20px;border:1px solid #999;box-sizing:border-box;background:#fff;}
 .left img {width:80px;height:80px;}
